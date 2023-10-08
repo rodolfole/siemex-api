@@ -2,7 +2,7 @@
   "name": "siemex-api",
   "version": "1.0.0",
   "engines": {
-    "node": ">=14 <15"
+    "node": ">=14.20.1"
   },
   "description": "",
   "main": "index.js",
